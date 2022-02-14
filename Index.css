@@ -4,6 +4,10 @@ body{
     font-family: 'Catamaran', sans-serif;
     background-color: rgb(255, 255, 255);
 }
+
+.img-link{
+    cursor:pointer;
+}
 .header-img{
     width: 160px;
 }
